@@ -5246,6 +5246,17 @@
 			(pintype "power_in")
 			(uuid "84f09623-9aa6-4618-ab44-cbfeafb8fca0")
 		)
+		(model "${KIPRJMOD}/project_libraries/ul_DRV8874PWPR/KiCADv6/PWP0016A.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 		(layer "F.Cu")
@@ -6612,6 +6623,17 @@
 			(pinfunction "PAD")
 			(pintype "power_in")
 			(uuid "3bb154c4-ffdd-4767-a2cd-923d71b7e8d1")
+		)
+		(model "${KIPRJMOD}/project_libraries/ul_DRV8874PWPR/KiCADv6/PWP0016A.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
 		)
 	)
 	(footprint "MountingHole:MountingHole_4.3mm_M4_Pad_Via"
@@ -13475,6 +13497,17 @@
 			(pintype "power_in")
 			(uuid "4258f7c3-3409-43eb-b6fa-738d71a316c8")
 		)
+		(model "${KIPRJMOD}/project_libraries/ul_DRV8874PWPR/KiCADv6/PWP0016A.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 		(layer "F.Cu")
@@ -19656,13 +19689,13 @@
 		)
 		(model "${KICAD8_3DMODEL_DIR}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_MKDS-1,5-12_1x12_P5.00mm_Horizontal.wrl"
 			(offset
-				(xyz 0 0 0)
+				(xyz 55 0 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz 0 0 180)
 			)
 		)
 	)
@@ -21862,6 +21895,17 @@
 			(pinfunction "PAD")
 			(pintype "power_in")
 			(uuid "72bd8c4a-a0f3-4279-a0ec-70446b9ab7dc")
+		)
+		(model "${KIPRJMOD}/project_libraries/ul_DRV8874PWPR/KiCADv6/PWP0016A.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
 		)
 	)
 	(footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
@@ -26464,6 +26508,17 @@
 			(size 1.905 1.2954)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(uuid "8d47c047-7b1e-4582-8899-5432d2f47c79")
+		)
+		(model "${KIPRJMOD}/project_libraries/SM04B_SRSS_TB/KiCADv6/SM04B-SRSS-TB.STEP"
+			(offset
+				(xyz 0 -1.25 -0.25)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 180)
+			)
 		)
 	)
 	(gr_poly
