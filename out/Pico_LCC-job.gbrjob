@@ -5,13 +5,13 @@
       "Application": "Pcbnew",
       "Version": "8.0.6"
     },
-    "CreationDate": "2025-01-28T00:54:02-05:00"
+    "CreationDate": "2025-02-03T18:30:11-05:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "Pico_LCC",
       "GUID": "5069636f-5f4c-4434-932e-6b696361645f",
-      "Revision": "1"
+      "Revision": "2"
     },
     "Size": {
       "X": 85.2,
@@ -49,18 +49,8 @@
       "FilePolarity": "Positive"
     },
     {
-      "Path": "Pico_LCC-B_Paste.gbr",
-      "FileFunction": "SolderPaste,Bot",
-      "FilePolarity": "Positive"
-    },
-    {
       "Path": "Pico_LCC-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
-      "FilePolarity": "Positive"
-    },
-    {
-      "Path": "Pico_LCC-B_Silkscreen.gbr",
-      "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {

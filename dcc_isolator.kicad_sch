@@ -6,8 +6,8 @@
 	(paper "USLetter")
 	(title_block
 		(title "Pico LCC Booster")
-		(date "2025-01-28")
-		(rev "1")
+		(date "2025-02-03")
+		(rev "2")
 		(company "TMRC & Uncommon Models")
 		(comment 1 "Noah Paladino")
 		(comment 2 "This design is provided without warranty, safety, or performance guarantees")
